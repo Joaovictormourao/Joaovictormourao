@@ -2,8 +2,10 @@
 
 <br><br>
 
-<a href="https://joaovictormourao.github.io"><b>🌐 Conheça melhor</b></a>
+
 
 <br><br>
 
 <p> 🔐 <b>Segurança da Informação:</b> cursando na UCB<br> 🛡️ <b>Cibersegurança:</b> aprendendo como proteger sistemas e dados<br> 🧰 <b>Git e GitHub:</b> começando a versionar e publicar meus estudos </p> <p> <b>2026:</b> técnico em Desenvolvimento de Sistemas, ETSM (Escola Técnica de Santa Maria)<br> <b>2026 - atual:</b> Segurança da Informação, UCB </p> <p> Quero entrar na área de tecnologia, aprender com quem já tem experiência e crescer em desenvolvimento e cibersegurança.<br> Estou aberto a oportunidades de estágio e a conversas sobre carreira. </p> <br> <p> <a href="https://www.linkedin.com/in/joão-victor-mourão-9088871a9" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> &nbsp; <a href="mailto:joaovictormorao@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=90&section=footer" alt=""> </div>
+
+<a href="https://joaovictormourao.github.io"><b>🌐 Conheça melhor</b></a>
